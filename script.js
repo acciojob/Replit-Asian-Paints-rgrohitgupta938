@@ -2,7 +2,7 @@
 const changeBtn = document.getElementById("change_button");
 const resetBtn = document.getElementById("reset_button");
 const blockIdInput = document.getElementById("block_id");
-const colorIdInput = document.getElementById("color_id");
+const colorIdInput = document.getElementById("colour_id");
 const getItems = document.querySelectorAll(".grid-item");
 
 changeBtn.addEventListener("click", () => {

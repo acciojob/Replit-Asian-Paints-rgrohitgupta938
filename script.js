@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const changeBtn = document.getElementById("change_button");
-const resetBtn = document.getElementById("reset");
+const resetBtn = document.getElementById("reset_button");
 const blockIdInput = document.getElementById("block_id");
 const colorIdInput = document.getElementById("color_id");
 const getItems = document.querySelectorAll(".grid-item");
